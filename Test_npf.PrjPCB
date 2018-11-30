@@ -123,9 +123,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Test_npf\Design Rule Check - test_npf.html
 DItemRevisionGUID=
+=======
+[Document3]
+DocumentPath=test_npf.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YPUWOSYS
+>>>>>>> a5031e42c2692476b008b31c9011ad6e7f55a24a
 
 [Configuration1]
 Name=Sources
